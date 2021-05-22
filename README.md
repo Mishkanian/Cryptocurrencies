@@ -15,6 +15,7 @@ The purpose of this project is to analyze cryptocurrency data using Unsupervised
 
 ![elbow_curve](https://github.com/Mishkanian/Cryptocurrencies/blob/main/README_images/elbow_curve.png)
 
+From the elbow curve above, it can be determined that the optimal number of clusters is 4 (k=4).
 
 ![3d_plot](https://github.com/Mishkanian/Cryptocurrencies/blob/main/README_images/3d_plot.png)
 
