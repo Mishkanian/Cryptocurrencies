@@ -1,7 +1,5 @@
 # Analyzing Cryptocurrencies with Unsupervised Machine Learning
 
-[PROJECT IN PROGRESS]
-
 ## Project Overview
 The purpose of this project is to analyze cryptocurrency data using Unsupervised Machine Learning. The original cryptocurrency data from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist) is preprocessed using Pandas to fit Unsupervised Machine Learning models. A clustering algorithm is used to group data and hvPlot visualization are used to share results.
 
